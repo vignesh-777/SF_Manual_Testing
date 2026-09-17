@@ -1,1 +1,6 @@
-# SF_Manual_Testing
+# Manual_Testing
+
+```
+Name: vignesh
+Reg No:21223240177`
+```
