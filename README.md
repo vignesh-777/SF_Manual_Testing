@@ -7,21 +7,7 @@ This repository contains my **daily exercises and practical work** completed dur
 
 ---
 
-## Daily Training Log
 
-### 15.09.2026 – Test Plan Document
-
-**Work Completed:**
-- HCLTech 60-day training started.
-- Learned the basics of Software Testing.
-- Instructed to create a **Test Plan document**.
-- Created the Test Plan document as instructed.
-
-📄 **Test Plan:**  
-
-(https://docs.google.com/spreadsheets/d/13yXC0YzNG4AhLx1e3LamSpG79DNRaFfQSGaEtjzFMUU/edit?usp=sharing)
-
----
 
 ### 18.09.2026 – Jira
 
