@@ -65,3 +65,5 @@ https://github.com/vignesh-777/SF_Manual_Testing/blob/main/test.py
 https://docs.google.com/spreadsheets/d/1Z98GtkACm-E9RPqRPlL39HMjQ-P4mXrL/edit?usp=sharing&ouid=100755975498653241037&rtpof=true&sd=true
 ### 25.09.2026  Exp
 https://github.com/vignesh-777/SF_Manual_Testing/blob/main/25_9_2026Code.py
+## 05.10.2026 Exp
+https://github.com/vignesh-777/SF_Manual_Testing/blob/main/Vignesh_R_Automation_Testing_Task_1_Professional.docx
